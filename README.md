@@ -3,7 +3,7 @@
 ## Designer, Développeur Web & Logiciels
 Je conçois et code des choses très simples et j'aime ce que je fais.
 
-![alt avatar image](./uploads/avatar_AimanMalkoun.svg)
+![alt avatar image](./assets/image/cv.png)
 > Salut, je suis Aiman. Ravi de vous rencontrer.
 Depuis le début de mon parcours en tant que developpeur indépendant, j'ai travaillé à distance pour des agences, consulté des startups et collaboré avec des personnes talentueuses pour créer des produits numériques à la fois pour les entreprises et les consommateurs. Je suis tranquillement confiant, naturellement curieux et je >travaille constamment à l'amélioration de mes côtelettes, un problème à la fois.
 
